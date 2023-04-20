@@ -18,11 +18,11 @@
 ### About me:
 Olá!
 
-Prazer, me chamo Milena. Sou desenvolvedora em Node.js e React.js com 2 anos de experiência na área. Possuo conhecimentos em Next.js e atualmente estou estudando aprofundadamente esta tecnologia. Além disso, tenho experiência na criação de APIs e integração com banco de dados postgresql, docker, autenticação. 
+Prazer, me chamo Milena. Sou desenvolvedora em Node.js e React.js com 2 anos de experiência na área. Possuo conhecimentos em Next.js e atualmente estou estudando aprofundadamente esta tecnologia. Além disso, tenho experiência na criação de APIs e integração com banco de dados postgresql, docker, autenticação. <br>
 Estou sempre em busca de novos desafios e aprendizados para continuar evoluindo como profissional.
 
-Entre em contato comigo!
-milenagomes022@gmail.com ou 
+Entre em contato comigo!<br>
+milenagomes022@gmail.com ou <br>
 envie mensagens pelo Linkedin. <br>
 
 ### Languages and Tools :
