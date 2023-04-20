@@ -16,10 +16,14 @@
 </div>
 
 ### About me:
-My name is Milena, I'm 23 years old, married, and have two adorable dogs.<br>
-I started my professional career as a developer in 2019, but my first lines of code were when I was 16 years old.
-I love learning about technology, and seeing it work is even better.
-Challenges are what move me, and technology helps me with that. <br>
+Olá!
+
+Prazer, me chamo Milena. Sou desenvolvedora em Node.js e React.js com 2 anos de experiência na área. Possuo conhecimentos em Next.js e atualmente estou estudando aprofundadamente esta tecnologia. Além disso, tenho experiência na criação de APIs e integração com banco de dados postgresql, docker, autenticação. 
+Estou sempre em busca de novos desafios e aprendizados para continuar evoluindo como profissional.
+
+Entre em contato comigo!
+milenagomes022@gmail.com ou 
+envie mensagens pelo Linkedin. <br>
 
 ### Languages and Tools :
 <p align="center">
